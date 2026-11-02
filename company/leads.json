@@ -1,0 +1,34 @@
+[
+  {
+    "empresa": "Loja Solaria",
+    "contato": "Ana Clara",
+    "cargo": "Gerente de Vendas",
+    "setor": "Comércio",
+    "dor": "Custo elevado para desenvolver um e-commerce com funcionalidades personalizadas",
+    "orcamento_mensal": 8000
+  },
+  {
+    "empresa": "Fazenda Verde",
+    "contato": "João Pedro",
+    "cargo": "CEO",
+    "setor": "Agricultura",
+    "dor": "Falta de expertise para criar uma plataforma de venda de produtos orgânicos online",
+    "orcamento_mensal": 8000
+  },
+  {
+    "empresa": "Escola Tech Kids",
+    "contato": "Marcia Lima",
+    "cargo": "Diretora Acadêmica",
+    "setor": "Educação",
+    "dor": "Tempo demorado para validar demanda por novos cursos online",
+    "orcamento_mensal": 8000
+  },
+  {
+    "empresa": "CloudCare SaaS",
+    "contato": "Rafael Silva",
+    "cargo": "CTO",
+    "setor": "Tech",
+    "dor": "Falta de alinhamento entre funcionalidades do MVP e necessidades reais dos usuários finais",
+    "orcamento_mensal": 8000
+  }
+]

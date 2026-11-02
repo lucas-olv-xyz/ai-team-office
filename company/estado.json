@@ -1,0 +1,14 @@
+{
+  "loja-solaria": {
+    "interessado": false
+  },
+  "fazenda-verde": {
+    "interessado": false
+  },
+  "escola-tech-kids": {
+    "interessado": false
+  },
+  "cloudcare-saas": {
+    "interessado": true
+  }
+}

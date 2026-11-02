@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Vera",
+    "role": "CEO",
+    "color": "#e74c3c",
+    "lines": [
+      "revisando metas do trimestre",
+      "analisando métricas do funil",
+      "revisando o plano financeiro",
+      "respondendo e-mails de parceiros"
+    ]
+  },
+  {
+    "name": "Otto",
+    "role": "CTO",
+    "color": "#9b59b6",
+    "lines": [
+      "revisando a arquitetura do produto",
+      "avaliando débito técnico",
+      "revisando PRs abertos",
+      "planejando a infraestrutura"
+    ]
+  },
+  {
+    "name": "Davi",
+    "role": "Dev Backend",
+    "color": "#3498db",
+    "lines": [
+      "implementando endpoint da API",
+      "corrigindo bug no serviço de autenticação",
+      "escrevendo testes de integração",
+      "otimizando consultas ao banco"
+    ]
+  },
+  {
+    "name": "Nina",
+    "role": "Dev Frontend",
+    "color": "#e67e22",
+    "lines": [
+      "implementando a tela de onboarding",
+      "ajustando layout responsivo",
+      "integrando a API no frontend",
+      "corrigindo bug de estado no formulário"
+    ]
+  },
+  {
+    "name": "Lia",
+    "role": "Designer",
+    "color": "#ff6fa5",
+    "lines": [
+      "desenhando wireframes do produto",
+      "preparando assets para o frontend",
+      "refinando a identidade visual",
+      "revisando o protótipo"
+    ]
+  },
+  {
+    "name": "Pedro",
+    "role": "Product Manager",
+    "color": "#2ecc71",
+    "lines": [
+      "atualizando o backlog",
+      "escrevendo user stories",
+      "planejando a próxima sprint",
+      "atualizando o status do projeto"
+    ]
+  },
+  {
+    "name": "Rui",
+    "role": "SDR",
+    "color": "#f1c40f",
+    "lines": [
+      "pesquisando leads no mercado",
+      "qualificando prospects",
+      "preparando sequência de follow-up",
+      "atualizando o CRM"
+    ]
+  },
+  {
+    "name": "Lucas",
+    "role": "Head of Sales",
+    "color": "#ffd700",
+    "human": true,
+    "lines": [
+      "aguardando briefings do Rui",
+      "revisando propostas comerciais",
+      "preparando follow-up de clientes"
+    ]
+  }
+]

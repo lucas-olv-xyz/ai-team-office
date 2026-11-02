@@ -1,0 +1,11 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Godot (cache do editor)
+office3d/.godot/
+
+# OS
+Thumbs.db
+desktop.ini

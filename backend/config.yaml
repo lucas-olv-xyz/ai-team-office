@@ -1,0 +1,23 @@
+# Camadas de modelo — tudo LOCAL (Ollama, custo zero).
+# Para usar nuvem depois, troque provider para "anthropic" ou "openai"
+# e exporte ANTHROPIC_API_KEY / OPENAI_API_KEY.
+
+tiers:
+  work:               # emails, leads, respostas de clientes-IA
+    provider: ollama
+    model: qwen3:8b
+  decision:           # oferta, estratégia
+    provider: ollama
+    model: qwen3:8b
+
+ollama_url: http://localhost:11434/v1
+
+# Rotação dos status literais dos bots fora do pipeline (sem custo de LLM)
+status_rotation_interval: 15
+
+# Teto diário de tokens (relevante só com providers pagos)
+daily_token_budget: 200000
+
+server:
+  host: 127.0.0.1
+  port: 8765

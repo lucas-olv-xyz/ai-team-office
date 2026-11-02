@@ -33,9 +33,11 @@ AI-team/
 │   ├── emails/<lead>.md     # threads reais: cold email ↔ resposta do cliente-IA
 │   └── briefing-<lead>.md   # briefings entregues ao Head of Sales
 └── docs/
+    ├── HANDOFF.md           # ⭐ estado atual + guia para continuar o desenvolvimento
     ├── OPERACAO.md          # plano de operação e decisões
     ├── ARQUITETURA.md       # componentes, protocolo WS, tiers de modelo
-    └── MVP.md               # definição do MVP e o que falta
+    ├── MVP.md               # definição do MVP e o que falta
+    └── POST_LINKEDIN.md     # roteiro do vídeo + rascunho do post
 ```
 
 ## Como rodar
